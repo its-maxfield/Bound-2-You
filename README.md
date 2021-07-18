@@ -4,4 +4,5 @@ A game created for the UCSC Senior Capstone Course. Using Procedural Generation 
 Awards (gameshowcase.ucsc.edu/the-awards/):
 
   **Impact Award**- For socially engaged work.
+  
   **Capstone Technical Innovation Award**- Excellence in technical execution and innovation.
