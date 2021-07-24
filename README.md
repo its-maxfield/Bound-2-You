@@ -3,8 +3,7 @@ A game created for the UCSC Senior Capstone Course. Using Procedural Generation 
 
 **Awards**:
 
-Impact Award- For socially engaged work.
-
-Capstone Technical Innovation Award- Excellence in technical execution and innovation.
+1. Impact Award- For socially engaged work.
+2. Capstone Technical Innovation Award- Excellence in technical execution and innovation.
 
 Find the full game [HERE](https://studiofield.itch.io/bound-2-you)
